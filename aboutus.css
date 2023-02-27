@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fredoka:wght@400;500;600&family=Lato&display=swap');
+
+.hidden,
+.hidden*{
+	pointer-events: none;
+	visibility: hidden;
+}
+.have-you-ever-wished{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 32px;
+	left: 695px;
+	top: 403px;
+	width: 415px;
+}
+
+.logo{
+	height: 130px;
+	left: 280px;
+	position: absolute;
+	top: 248px;
+	width: 170px;
+}
+.have-you-ever-though{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 48px;
+	left: 1482px;
+	top: 205px;
+	width: 282px;
+}
+.about-us{
+	align-items: flex-start;
+	background-color: var(--white);
+	border: 1px none;
+	display: flex;
+	width: 1920px;
+}
+.overlap-group1{
+	height: 1080px;
+	position: relative;
+	width: 1920px;
+}
+.wabi-sabi-presents-p{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 32px;
+	font-weight: 400;
+	left: 162px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 644px;
+	width: 799px;
+}
+.go-to-solution{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 24px;
+	font-weight: 400;
+	cursor: pointer;
+	left: 161px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 959px;
+}
+.about-us-1{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 48px;
+	left: 161px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 320px;
+}
+.destop-1{
+	align-items: flex-start;
+	background-color: var(--white);
+	display: flex;
+	height: 1080px;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 1920px;
+}
+.overlap-group{
+	height: 1264px;
+	margin-left: -163px;
+	margin-top: -118px;
+	position: relative;
+	width: 2188px;
+}
+.bubble-right{
+	height: 362px;
+	left: 1374px;
+	position: absolute;
+	top: 174px;
+	width: 434px;
+}
+.ellipse-3{
+	background-color: #fd508461;
+	border-radius: 216px;
+	height: 432px;
+	left: 1756px;
+	position: absolute;
+	top: 832px;
+	width: 432px;
+}
+.about-us.have-you-ever-though{
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+}
+.background{
+	background-color: #c8e1ff;
+	height: 1080px;
+	left: 163px;
+	position: absolute;
+	top: 118px;
+	width: 1920px;
+}
+.bubble-left{
+	height: 351px;
+	left: 637px;
+	position: absolute;
+	top: 340px;
+	width: 488px;
+}
+.ellipse-1{
+	background-color: #8236ff1a;
+	border-radius: 354px;
+	height: 708px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 708px;
+}
+.ellipse-2{
+	background-color: #b20c0c1a;
+	border-radius: 130px;
+	height: 260px;
+	left: 1080px;
+	position: absolute;
+	top: 658px;
+	width: 260px;
+}
+.go-to-main-page{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 24px;
+	font-weight: 400;
+	cursor: pointer;
+	left: 1600px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 959px;
+}
+

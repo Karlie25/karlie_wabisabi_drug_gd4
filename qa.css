@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fredoka:wght@400;500;600&family=Lato&display=swap');
+
+.qa{
+	align-items: flex-start;
+	background-color:var(--white) ;
+	border: 1px none;
+	display: flex;
+	height: 1080px;
+	width: 1920px;
+}
+.hidden,
+.hidden*{
+	pointer-events: none;
+	visibility: hidden;
+}
+.overlap-group2{
+	height: 1083px;
+	margin-top: -3px;
+	position: relative;
+	width: 1920px;
+}
+.ellipse-1{
+	background-color: #8236ff1a;
+	border-radius: 354px;
+	height: 708px;
+	left: 983px;
+	position: absolute;
+	top: 0;
+	width: 708px;
+}
+.solution{
+	align-items: flex-start;
+	background-color:var(--white) ;
+	display: flex;
+	height: 1080px;
+	left: 0;
+	position: absolute;
+	top: 3px;
+	width: 1920px;
+
+}
+.overlap-group1{
+	height: 1080px;
+	position: relative;
+	width: 1920px;
+}
+.go-to-main-page{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 24px;
+	font-weight: 400;
+	cursor: pointer;
+	left: 1601px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 959px;
+}
+.go-to-contact{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 24px;
+	font-weight: 400;
+	cursor: pointer;
+	left: 161px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 959px;	
+}
+.destop-1{
+	align-items: flex-start;
+	background-color: var(--white);
+	display: flex;
+	height: 1080px;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 1920px;
+}
+.overlap-group{
+	align-items: flex-start;
+	background-color: #c8e1ff;
+	display: flex;
+	height: 1080px;
+	min-width: 1920px;
+	padding: 160px;
+}
+.logo{
+	height: 130px;
+	left: 140px;
+	position: absolute;
+	top: 248px;
+	width: 170px;
+}
+.how-much-does-the-se{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 24px;
+	left: 164px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 479px;
+	width: 1276px;
+}
+.questions-and-answers{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size:32px;
+	left: 161px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 400px;
+}
+.ellipse-2{
+	background-color: #b20c0c1a;
+	border-radius: 260px;
+	height:520px;
+	left: 640px;
+	position: absolute;
+	top: 203px;
+	width: 520px;
+}

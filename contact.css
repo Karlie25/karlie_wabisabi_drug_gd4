@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fredoka:wght@400;500;600&family=Lato&display=swap');
+.contact-us{
+	align-items: flex-start;
+	background-color: var(--white);
+	border: 1px none;
+	display: flex;
+	overflow: hidden;
+	width: 1920px;
+}
+.hidden,
+.hidden*{
+	pointer-events: none;
+	visibility: hidden;
+}
+.overlap-group2{
+	height: 1080px;
+	margin-left: -33px;
+	position: relative;
+	width: 1920px;
+}
+.ellipse-2{
+	background-color: #b20c0c1a;
+	border-radius: 130px;
+	height: 260px;
+	left: 863px;
+	position: absolute;
+	top: 517px;
+	width: 260px;
+}
+.solution{
+	align-items: flex-start;
+	background-color: var(--white);
+	display: flex;
+	height: 1080px;
+	left: 33px;
+	position: absolute;
+	top: 0;
+	width: 1920px;
+}
+.overlap-group1{
+	height: 1080px;
+	position: relative;
+	width: 1920px;
+}
+.contact-us-1{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 32px;
+	left: 165px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 325px;
+}
+.destop-1{
+	align-items: flex-start;
+	background-color: var(--white);
+	display: flex;
+	height: 1080px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 1920px;
+}
+.overlap-group{
+	align-items: flex-start;
+	background-color: #c8e1ff;
+	display: flex;
+	flex-direction: column;
+	min-height: 1080px;
+	padding: 0 59px;
+	width: 1920px;
+}
+.logo{
+	height: 130px;
+	left: 130px;
+	position: absolute;
+	top: 150px;
+	width: 170px;
+}
+.ellipse-3{
+	background-color: #fd508461;
+	border-radius: 216px;
+	height: 432px;
+	left: 1756px;
+	position: absolute;
+	top: 832px;
+	width: 432px;
+}
+.our-main-office-600{
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 24px;
+	left: 164px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top:400px;
+	width: 636px;
+}
+.ellipse-1{
+	background-color: #113d931a;
+	border-radius: 354px;
+	height: 708px;
+	left: 0;
+	position: absolute;
+	top:62px;
+	width: 708px;
+}
+.ellipse-3-1{
+	background-color: #113d931a;
+	border-radius: 354px;
+	height: 310px;
+	left:1546px;
+	position: absolute;
+	top:770px;
+	width:407px;
+}
+.go-to-main-page{
+	color:#343467;
+	font-family: fredoka;
+	font-size: 24px;
+	font-weight: 400;
+	cursor: pointer;
+	left: 190px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 959px;
+}

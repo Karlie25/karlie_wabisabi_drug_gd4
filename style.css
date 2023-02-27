@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fredoka:wght@400;500;600&family=Lato&display=swap');
+.destop-1{
+	align-items: flex-start;
+	background-color: #ffffff;
+	border: 1px none;
+	diplay: flex;
+	height: 1080px;
+	overflow: hidden;
+	width: 1920px;
+}
+.hidden,
+.hidden*{
+	pointer-events: none;
+	visibility: hidden;
+}
+.overlap-group{
+	height: 1460px;
+	margin-top: -81px;
+	position: relative;
+	width: 1965px;
+
+}
+.contact-us{
+	cursor: pointer;
+	left: 825px;
+	font-family: Fredoka;
+	font-weight: 400;
+	font-size: 32px;
+	color: #343467;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 400px;
+}
+.logo{
+	height: 130px;
+	left: 140px;
+	position: absolute;
+	top: 248px;
+	width: 170px;
+}
+.ellipse-3{
+	background-color: #d9d9d9;
+	border-radius: 150px;
+	height: 300px;
+	left: 1262px;
+	position: absolute;
+	top: 561px;
+	width: 300px;
+}
+.q-a{
+	cursor: pointer;
+	left: 653px;
+	font-family: Fredoka;
+	font-weight: 400;
+	font-size: 32px;
+	color: #343467;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 400px;
+}
+.everyone-is-a{
+	font-family: Fredoka;
+	color: #343467;
+	left: 191px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 678px;
+}
+
+.about-us{
+	cursor: pointer;
+	font-family: Fredoka;
+	font-weight: 400;
+	color: #343467;
+	font-size: 32px;
+	left: 160px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 400px;
+}
+.solution{
+	cursor: pointer;
+	font-family: Fredoka;
+	font-size: 32px;
+	font-weight: 400;
+	color: #343467;
+	left: 396px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 400px;
+}
+.background{
+	background-color: #c8e1ff;
+	box-shadow: 0px 4px 4px #00000040;
+	height: 1080px;
+	left: 0;
+	position: absolute;
+	top: 81px;
+	width: 1920px;
+}
+
+.ellipse-1{
+	background-color: #8236ff1a;
+	border-radius: 248px;
+	height: 496px;
+	left: 1469px;
+	position: absolute;
+	top: 0;
+	width: 496px;
+}
+.ellipse-2{
+	background-color: #b20c0c1a;
+	border-radius: 204px;
+	height: 408px;
+	left: 476px;
+	position: absolute;
+	top: 537px;
+	width: 408px;
+}
+.we-are-here-to-help{
+	font-family: Fredoka;
+	font-size: 32px;
+	color: #343467;
+	left: 816px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	top: 1040px;
+}
+.ellipse-2-1{
+	background-color: #41c9001a;
+	border-radius: 299px;
+	height: 598px;
+	left: 664px;
+	position: absolute;
+	top: 862px;
+	width: 598px;
+}
+
+
